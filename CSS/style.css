@@ -1,1 +1,10 @@
+. {
+    padding: 0;
+    margin: 0;
 
+}
+
+main{
+    background-color: blue;
+    color: blueviolet;
+}
